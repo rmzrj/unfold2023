@@ -1,0 +1,4 @@
+#Fri Oct 20 13:16:20 IST 2023
+base.0=/Users/rameez/Desktop/dev/unfold2023/melolink/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
